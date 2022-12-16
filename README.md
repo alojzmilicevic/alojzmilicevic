@@ -1,6 +1,6 @@
 # Welcome! 🎉
 
-Hi there! Thanks for stopping by my profile. My name is [Your Name] and I am a fullstack developer with a passion for creating intuitive and engaging web applications.
+Hi there! Thanks for stopping by my profile. My name is Alojz Milicevic and I am a fullstack developer with a passion for creating intuitive and engaging web applications.
 
 # What I'm Interested In 💻
 
